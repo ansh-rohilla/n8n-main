@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# video files
+n8n_masterclass_2.mp4
